@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/runy/Desktop/ECutblidning/fixxo/FixxoBackend/FixxoBackend/FixxoBackend.csproj": {}
+    "/Users/runy/Desktop/ECutblidning/fixxo/fixxoBacken1Teame/FixxoBackend/FixxoBackend/FixxoBackend.csproj": {}
   },
   "projects": {
-    "/Users/runy/Desktop/ECutblidning/fixxo/FixxoBackend/FixxoBackend/FixxoBackend.csproj": {
+    "/Users/runy/Desktop/ECutblidning/fixxo/fixxoBacken1Teame/FixxoBackend/FixxoBackend/FixxoBackend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/runy/Desktop/ECutblidning/fixxo/FixxoBackend/FixxoBackend/FixxoBackend.csproj",
+        "projectUniqueName": "/Users/runy/Desktop/ECutblidning/fixxo/fixxoBacken1Teame/FixxoBackend/FixxoBackend/FixxoBackend.csproj",
         "projectName": "FixxoBackend",
-        "projectPath": "/Users/runy/Desktop/ECutblidning/fixxo/FixxoBackend/FixxoBackend/FixxoBackend.csproj",
+        "projectPath": "/Users/runy/Desktop/ECutblidning/fixxo/fixxoBacken1Teame/FixxoBackend/FixxoBackend/FixxoBackend.csproj",
         "packagesPath": "/Users/runy/.nuget/packages/",
-        "outputPath": "/Users/runy/Desktop/ECutblidning/fixxo/FixxoBackend/FixxoBackend/obj/",
+        "outputPath": "/Users/runy/Desktop/ECutblidning/fixxo/fixxoBacken1Teame/FixxoBackend/FixxoBackend/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/runy/.nuget/NuGet/NuGet.Config"

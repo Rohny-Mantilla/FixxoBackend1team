@@ -14,11 +14,15 @@ namespace FixxoBackend.Models.Entities
         public string Name { set; get; }
 
         [Required]
-        [Column(TypeName = "nvarchar(200)")]
+        [Column(TypeName ="nvarchar")]
+        public string Image { set; get; } 
+
+        [Required]
+        [Column(TypeName = "nvarchar(400)")]
         public string DescShort { set; get; }
 
         [Required]
-        [Column(TypeName = "nvarchar(200)")] // ???
+        [Column(TypeName = "nvarchar(max)")] 
         public string DescLong { set; get; }
 
         [Required]
@@ -27,6 +31,8 @@ namespace FixxoBackend.Models.Entities
 
         [Required]
         public int CategoryId { set; get; }
+
+
 
         public virtual CategoryEntity Category { get; set; } // 1 P - 1 C
     }

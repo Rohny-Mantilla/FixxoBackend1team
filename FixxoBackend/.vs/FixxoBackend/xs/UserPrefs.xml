@@ -1,4 +1,41 @@
 ﻿<Properties StartupConfiguration="{151B82B6-1992-4380-9B8F-A8A42C472AA1}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FixxoBackend/Controllers/ProductsController.cs">
+    <Files>
+      <File FileName="FixxoBackend/Models/Entities/CategoryEntity.cs" Line="1" Column="1" />
+      <File FileName="FixxoBackend/Models/Entities/ProductEntity.cs" Line="17" Column="36" />
+      <File FileName="FixxoBackend/appsettings.json" Line="1" Column="1" />
+      <File FileName="FixxoBackend/Program.cs" Line="1" Column="1" />
+      <File FileName="FixxoBackend/Controllers/CategoriesController.cs" Line="42" Column="13" />
+      <File FileName="FixxoBackend/Models/CategoryRequest.cs" Line="10" Column="1" />
+      <File FileName="FixxoBackend/Controllers/ProductsController.cs" Line="66" Column="38" />
+      <File FileName="FixxoBackend/Models/ProductRequest.cs" Line="17" Column="44" />
+      <File FileName="FixxoBackend/Models/ProductResponse.cs" Line="17" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FixxoBackend" expanded="True">
+            <Node name="FixxoBackend" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="ProductsController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True">
+                <Node name="Entities" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.FixxoBackend FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.FixxoBackend PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
 </Properties>
