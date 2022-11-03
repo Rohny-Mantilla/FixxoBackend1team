@@ -59,7 +59,7 @@ namespace FixxoBackend.Migrations
 
                     b.Property<string>("Image")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasColumnType("nvarchar");
 
                     b.Property<string>("Name")
                         .IsRequired()

@@ -77,6 +77,18 @@ namespace FixxoBackend.Controllers
             catch (Exception ex) { Debug.WriteLine(ex.Message); }
             return new BadRequestResult();
         }
+
+        [HttpGet("{id}")]
+
+        public async Task<IActionResult> GetOne(int id)
+        {
+            try
+            {
+                return new OkObjectResult(await _context.Products.FirstOrDefaultAsync(x => x.Id == id));
+            }
+            catch (Exception ex) { Debug.WriteLine(ex.Message); }
+            return new BadRequestResult();
+        }
     }
 }
 
