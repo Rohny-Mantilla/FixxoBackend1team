@@ -60,3 +60,8 @@
 /Users/runy/Desktop/ECutblidning/fixxo/fixxoBacken1Teame/FixxoBackend/FixxoBackend/obj/Release/net6.0/FixxoBackend.pdb
 /Users/runy/Desktop/ECutblidning/fixxo/fixxoBacken1Teame/FixxoBackend/FixxoBackend/obj/Release/net6.0/FixxoBackend.genruntimeconfig.cache
 /Users/runy/Desktop/ECutblidning/fixxo/fixxoBacken1Teame/FixxoBackend/FixxoBackend/obj/Release/net6.0/ref/FixxoBackend.dll
+/Users/runy/Desktop/ECutblidning/fixxo/fixxoBacken1Teame/FixxoBackend/FixxoBackend/obj/Release/net6.0/staticwebassets/msbuild.FixxoBackend.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/runy/Desktop/ECutblidning/fixxo/fixxoBacken1Teame/FixxoBackend/FixxoBackend/obj/Release/net6.0/staticwebassets/msbuild.build.FixxoBackend.props
+/Users/runy/Desktop/ECutblidning/fixxo/fixxoBacken1Teame/FixxoBackend/FixxoBackend/obj/Release/net6.0/staticwebassets/msbuild.buildMultiTargeting.FixxoBackend.props
+/Users/runy/Desktop/ECutblidning/fixxo/fixxoBacken1Teame/FixxoBackend/FixxoBackend/obj/Release/net6.0/staticwebassets/msbuild.buildTransitive.FixxoBackend.props
+/Users/runy/Desktop/ECutblidning/fixxo/fixxoBacken1Teame/FixxoBackend/FixxoBackend/obj/Release/net6.0/staticwebassets.pack.json

@@ -14,7 +14,7 @@ namespace FixxoBackend.Models.Entities
         public string Name { set; get; }
 
         [Required]
-        [Column(TypeName ="nvarchar")]
+        
         public string Image { set; get; } 
 
         [Required]
